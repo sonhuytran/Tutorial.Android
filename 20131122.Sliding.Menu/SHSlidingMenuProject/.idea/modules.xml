@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SHSlidingMenu/SHSlidingMenu.iml" filepath="$PROJECT_DIR$/SHSlidingMenu/SHSlidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SHSlidingMenuProject.iml" filepath="$PROJECT_DIR$/SHSlidingMenuProject.iml" />
+    </modules>
+  </component>
+</project>
+
