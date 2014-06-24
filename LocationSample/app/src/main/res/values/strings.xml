@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Sample</string>
+    <string name="title_section1">GSM Location</string>
+    <string name="title_section2">GPS Location</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gsm_cell_id">GSM Cell ID</string>
+    <string name="two_points">:</string>
+    <string name="gsm_lac">GSM Location Area Code</string>
+    <string name="refresh_once">Refresh Once</string>
+    <string name="auto_refresh">Auto-Refresh</string>
+    <string name="gsm_retrieved_succeed">GSM Location retrieved with success.</string>
+
+</resources>
