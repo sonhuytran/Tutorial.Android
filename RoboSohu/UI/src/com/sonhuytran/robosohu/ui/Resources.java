@@ -15,7 +15,8 @@ public abstract class Resources {
     protected Applet applet;
 
     protected Resources(Applet applet, String path) {
-        base = applet.getClass().getResource(path);
+        this.applet = applet;
+        this.base = applet.getClass().getResource(path);
     }
 
     // endregion
